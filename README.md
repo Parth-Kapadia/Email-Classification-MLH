@@ -1,5 +1,5 @@
 "# Email-Classification-MLH" 
-The project has two main modules. One is the testing based Flask Restful application for email classification. Whereas the other is producion based (Salesforce) Django Rest API. 
+The project has two main modules. One is the testing based Flask Restful application for email classification. Whereas the other is producion based (Salesforce) Django Rest API. The third RASA approach was used initially for testing purposes
 
 
 The project can be overall broadly divided into three parts:
